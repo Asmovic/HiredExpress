@@ -19,7 +19,7 @@ export const Header: React.FC = () => {
         />
         <div className="flex shrink-0 grow-0 basis-1/3 justify-center md:justify-start">
           <Link href="/#">
-            <a className="my-auto flex w-[140px] md:ml-0">
+            <a className="my-auto flex w-[260px] md:ml-0">
               <Logo />
             </a>
           </Link>

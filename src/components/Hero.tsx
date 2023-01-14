@@ -60,7 +60,7 @@ const HeroInnerBanner: React.FC<{ show: boolean; onClose: () => void }> = ({
     >
       <div className="relative rounded bg-gradient-to-r from-purple-500 to-indigo-800 py-3 px-8 text-center text-white shadow-lg md:rounded-full">
         <p>
-          Welcome to <span className="font-bold">HIREDLi</span>. An easier and
+          Welcome to <span className="font-bold">HIREDExpress</span>. An easier and
           faster job discovery platform.
         </p>
         <span className="absolute top-1 right-1 sm:top-2 sm:right-2">
@@ -171,7 +171,7 @@ function HeroBottomCard() {
       <span className="block text-center text-lg text-white">
         No time to look for jobs? Drop your resume with{" "}
         <span className="bg-gradient-to-r from-fuchsia-700 via-purple-500 to-indigo-500 bg-clip-text align-middle text-2xl font-black tracking-widest text-transparent">
-          HIREDLi-X
+          HIREDExpress-X
         </span>{" "}
         headhunters here.
       </span>

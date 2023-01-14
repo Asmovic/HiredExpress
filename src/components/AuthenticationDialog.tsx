@@ -47,7 +47,7 @@ export const AuthenticationDialog: React.FC<{
               leaveTo="opacity-0 scale-95"
             >
               <div className="my-8 inline-block w-full max-w-md transform overflow-hidden rounded-2xl bg-white p-6 align-middle shadow-xl transition-all dark:bg-gray-800">
-                <span className="mx-auto flex w-[140px] ">
+                <span className="mx-auto flex w-[250px] ">
                   <Logo />
                 </span>
                 <Tab.Group>
