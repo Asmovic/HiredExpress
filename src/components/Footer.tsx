@@ -161,7 +161,7 @@ export const Footer = () => {
               href="https://github.com/miadv"
               className="font-semibold hover:text-indigo-800 hover:underline dark:hover:text-white"
             >
-              Miad Vosoughi
+              Brainwavee
             </a>
           </p>
         </div>
